@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1
 
 Fraud Detection
+
 [https://github.com/NeerShah87/fraud_detection](./another-page.html).
 
 ## Project 2
