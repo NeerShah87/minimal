@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Fraud Detection
 
-[https://github.com/NeerShah87/fraud_detection](./another-page.html).
+https://github.com/NeerShah87/fraud_detection
 
 ## Project 2
 
